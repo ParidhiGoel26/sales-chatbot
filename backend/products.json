@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "name": "Digital Marketing Guide 779",
+    "category": "Books",
+    "price": 108.25,
+    "stock": 21
+  },
+  {
+    "id": 2,
+    "name": "Watch Strap 310",
+    "category": "Accessories",
+    "price": 238.9,
+    "stock": 4
+  },
+  {
+    "id": 3,
+    "name": "Silk Scarf 727",
+    "category": "Textiles",
+    "price": 903.39,
+    "stock": 3
+  },
+  {
+    "id": 4,
+    "name": "Bluetooth Speaker 950",
+    "category": "Electronics",
+    "price": 325.69,
+    "stock": 30
+  },
+  {
+    "id": 5,
+    "name": "Smartphone 290",
+    "category": "Electronics",
+    "price": 646.5,
+    "stock": 8
+  },
+  {
+    "id": 6,
+    "name": "Cotton Shirt 102",
+    "category": "Textiles",
+    "price": 257.85,
+    "stock": 46
+  },
+  {
+    "id": 7,
+    "name": "Fitness Tracker 860",
+    "category": "Gadgets",
+    "price": 187.58,
+    "stock": 36
+  },
+  {
+    "id": 8,
+    "name": "Camera 957",
+    "category": "Electronics",
+    "price": 119.59,
+    "stock": 14
+  },
+  {
+    "id": 9,
+    "name": "Smart Watch 133",
+    "category": "Gadgets",
+    "price": 14.85,
+    "stock": 5
+  },
+  {
+    "id": 10,
+    "name": "Leather Wallet 161",
+    "category": "Accessories",
+    "price": 235.66,
+    "stock": 48
+  },
+  {
+    "id": 11,
+    "name": "Watch Strap 606",
+    "category": "Accessories",
+    "price": 827.86,
+    "stock": 18
+  },
+  {
+    "id": 12,
+    "name": "Smart Watch 180",
+    "category": "Gadgets",
+    "price": 860.97,
+    "stock": 49
+  },
+  {
+    "id": 13,
+    "name": "The AI Future 559",
+    "category": "Books",
+    "price": 846.07,
+    "stock": 49
+  },
+  {
+    "id": 14,
+    "name": "Silk Scarf 837",
+    "category": "Textiles",
+    "price": 482.58,
+    "stock": 8
+  },
+  {
+    "id": 15,
+    "name": "Laptop 529",
+    "category": "Electronics",
+    "price": 420.47,
+    "stock": 25
+  },
+  {
+    "id": 16,
+    "name": "The AI Future 116",
+    "category": "Books",
+    "price": 179.57,
+    "stock": 5
+  },
+  {
+    "id": 17,
+    "name": "Wool Sweater 674",
+    "category": "Textiles",
+    "price": 528.63,
+    "stock": 40
+  },
+  {
+    "id": 18,
+    "name": "Drone 696",
+    "category": "Gadgets",
+    "price": 273.89,
+    "stock": 18
+  },
+  {
+    "id": 19,
+    "name": "Leather Wallet 665",
+    "category": "Accessories",
+    "price": 665.53,
+    "stock": 2
+  },
+  {
+    "id": 20,
+    "name": "Data Science 101 367",
+    "category": "Books",
+    "price": 391.98,
+    "stock": 42
+  },
+  {
+    "id": 21,
+    "name": "Cotton Shirt 843",
+    "category": "Textiles",
+    "price": 32.17,
+    "stock": 30
+  },
+  {
+    "id": 22,
+    "name": "Denim Jeans 795",
+    "category": "Textiles",
+    "price": 300.42,
+    "stock": 46
+  },
+  {
+    "id": 23,
+    "name": "Watch Strap 404",
+    "category": "Accessories",
+    "price": 190.48,
+    "stock": 12
+  },
+  {
+    "id": 24,
+    "name": "The AI Future 342",
+    "category": "Books",
+    "price": 266.78,
+    "stock": 5
+  },
+  {
+    "id": 25,
+    "name": "Drone 312",
+    "category": "Gadgets",
+    "price": 841.58,
+    "stock": 21
+  },
+  {
+    "id": 26,
+    "name": "Digital Marketing Guide 445",
+    "category": "Books",
+    "price": 794.89,
+    "stock": 31
+  },
+  {
+    "id": 27,
+    "name": "Learn Python 622",
+    "category": "Books",
+    "price": 677.43,
+    "stock": 23
+  },
+  {
+    "id": 28,
+    "name": "Bluetooth Speaker 358",
+    "category": "Electronics",
+    "price": 15.84,
+    "stock": 13
+  },
+  {
+    "id": 29,
+    "name": "Cotton Shirt 987",
+    "category": "Textiles",
+    "price": 678.16,
+    "stock": 40
+  },
+  {
+    "id": 30,
+    "name": "Backpack 741",
+    "category": "Accessories",
+    "price": 706.78,
+    "stock": 24
+  },
+  {
+    "id": 31,
+    "name": "Laptop 721",
+    "category": "Electronics",
+    "price": 824.14,
+    "stock": 27
+  },
+  {
+    "id": 32,
+    "name": "Wool Sweater 561",
+    "category": "Textiles",
+    "price": 200.97,
+    "stock": 8
+  },
+  {
+    "id": 33,
+    "name": "Wool Sweater 274",
+    "category": "Textiles",
+    "price": 123.08,
+    "stock": 30
+  },
+  {
+    "id": 34,
+    "name": "Wool Sweater 711",
+    "category": "Textiles",
+    "price": 754.96,
+    "stock": 2
+  },
+  {
+    "id": 35,
+    "name": "Data Science 101 272",
+    "category": "Books",
+    "price": 924.28,
+    "stock": 25
+  },
+  {
+    "id": 36,
+    "name": "Backpack 546",
+    "category": "Accessories",
+    "price": 838.32,
+    "stock": 14
+  },
+  {
+    "id": 37,
+    "name": "Sunglasses 846",
+    "category": "Accessories",
+    "price": 484.55,
+    "stock": 13
+  },
+  {
+    "id": 38,
+    "name": "Cotton Shirt 755",
+    "category": "Textiles",
+    "price": 105.65,
+    "stock": 50
+  },
+  {
+    "id": 39,
+    "name": "Leather Wallet 313",
+    "category": "Accessories",
+    "price": 239.35,
+    "stock": 29
+  },
+  {
+    "id": 40,
+    "name": "Smart Watch 179",
+    "category": "Gadgets",
+    "price": 970.09,
+    "stock": 44
+  },
+  {
+    "id": 41,
+    "name": "Monitor 418",
+    "category": "Electronics",
+    "price": 96.16,
+    "stock": 46
+  },
+  {
+    "id": 42,
+    "name": "Silk Scarf 431",
+    "category": "Textiles",
+    "price": 700.85,
+    "stock": 5
+  },
+  {
+    "id": 43,
+    "name": "Sunglasses 610",
+    "category": "Accessories",
+    "price": 670.17,
+    "stock": 47
+  },
+  {
+    "id": 44,
+    "name": "VR Headset 733",
+    "category": "Gadgets",
+    "price": 497.28,
+    "stock": 9
+  },
+  {
+    "id": 45,
+    "name": "Bluetooth Speaker 251",
+    "category": "Electronics",
+    "price": 874.77,
+    "stock": 11
+  },
+  {
+    "id": 46,
+    "name": "The AI Future 636",
+    "category": "Books",
+    "price": 464.55,
+    "stock": 4
+  },
+  {
+    "id": 47,
+    "name": "Drone 426",
+    "category": "Gadgets",
+    "price": 295.17,
+    "stock": 11
+  },
+  {
+    "id": 48,
+    "name": "Drone 989",
+    "category": "Gadgets",
+    "price": 841.16,
+    "stock": 22
+  },
+  {
+    "id": 49,
+    "name": "Learn Python 534",
+    "category": "Books",
+    "price": 592.48,
+    "stock": 38
+  },
+  {
+    "id": 50,
+    "name": "Camera 590",
+    "category": "Electronics",
+    "price": 809.9,
+    "stock": 18
+  },
+  {
+    "id": 51,
+    "name": "Drone 943",
+    "category": "Gadgets",
+    "price": 378.87,
+    "stock": 49
+  },
+  {
+    "id": 52,
+    "name": "Camera 611",
+    "category": "Electronics",
+    "price": 407.95,
+    "stock": 44
+  },
+  {
+    "id": 53,
+    "name": "The AI Future 602",
+    "category": "Books",
+    "price": 19.79,
+    "stock": 31
+  },
+  {
+    "id": 54,
+    "name": "Sunglasses 625",
+    "category": "Accessories",
+    "price": 63.22,
+    "stock": 32
+  },
+  {
+    "id": 55,
+    "name": "Data Science 101 301",
+    "category": "Books",
+    "price": 497.35,
+    "stock": 47
+  },
+  {
+    "id": 56,
+    "name": "Fitness Tracker 840",
+    "category": "Gadgets",
+    "price": 591.57,
+    "stock": 18
+  },
+  {
+    "id": 57,
+    "name": "Camera 205",
+    "category": "Electronics",
+    "price": 303.05,
+    "stock": 35
+  },
+  {
+    "id": 58,
+    "name": "Smartphone 165",
+    "category": "Electronics",
+    "price": 997.47,
+    "stock": 19
+  },
+  {
+    "id": 59,
+    "name": "Camera 811",
+    "category": "Electronics",
+    "price": 904.84,
+    "stock": 41
+  },
+  {
+    "id": 60,
+    "name": "VR Headset 253",
+    "category": "Gadgets",
+    "price": 380.42,
+    "stock": 41
+  },
+  {
+    "id": 61,
+    "name": "Drone 397",
+    "category": "Gadgets",
+    "price": 921.62,
+    "stock": 25
+  },
+  {
+    "id": 62,
+    "name": "Fitness Tracker 657",
+    "category": "Gadgets",
+    "price": 55.89,
+    "stock": 31
+  },
+  {
+    "id": 63,
+    "name": "Sunglasses 830",
+    "category": "Accessories",
+    "price": 642.96,
+    "stock": 26
+  },
+  {
+    "id": 64,
+    "name": "Cotton Shirt 500",
+    "category": "Textiles",
+    "price": 447.55,
+    "stock": 9
+  },
+  {
+    "id": 65,
+    "name": "Camera 567",
+    "category": "Electronics",
+    "price": 198.55,
+    "stock": 19
+  },
+  {
+    "id": 66,
+    "name": "Data Science 101 335",
+    "category": "Books",
+    "price": 176.55,
+    "stock": 38
+  },
+  {
+    "id": 67,
+    "name": "Monitor 294",
+    "category": "Electronics",
+    "price": 633.12,
+    "stock": 47
+  },
+  {
+    "id": 68,
+    "name": "Leather Wallet 871",
+    "category": "Accessories",
+    "price": 130.03,
+    "stock": 38
+  },
+  {
+    "id": 69,
+    "name": "The AI Future 387",
+    "category": "Books",
+    "price": 261.14,
+    "stock": 8
+  },
+  {
+    "id": 70,
+    "name": "Watch Strap 782",
+    "category": "Accessories",
+    "price": 754.81,
+    "stock": 42
+  },
+  {
+    "id": 71,
+    "name": "The AI Future 727",
+    "category": "Books",
+    "price": 912.28,
+    "stock": 24
+  },
+  {
+    "id": 72,
+    "name": "Silk Scarf 732",
+    "category": "Textiles",
+    "price": 636.3,
+    "stock": 41
+  },
+  {
+    "id": 73,
+    "name": "Sunglasses 255",
+    "category": "Accessories",
+    "price": 834.83,
+    "stock": 43
+  },
+  {
+    "id": 74,
+    "name": "Backpack 133",
+    "category": "Accessories",
+    "price": 737.94,
+    "stock": 35
+  },
+  {
+    "id": 75,
+    "name": "Cotton Shirt 215",
+    "category": "Textiles",
+    "price": 75.36,
+    "stock": 5
+  },
+  {
+    "id": 76,
+    "name": "Laptop 915",
+    "category": "Electronics",
+    "price": 318.18,
+    "stock": 7
+  },
+  {
+    "id": 77,
+    "name": "Camera 998",
+    "category": "Electronics",
+    "price": 259.95,
+    "stock": 2
+  },
+  {
+    "id": 78,
+    "name": "Smart Watch 651",
+    "category": "Gadgets",
+    "price": 534.97,
+    "stock": 46
+  },
+  {
+    "id": 79,
+    "name": "Fitness Tracker 804",
+    "category": "Gadgets",
+    "price": 586.15,
+    "stock": 27
+  },
+  {
+    "id": 80,
+    "name": "Wool Sweater 330",
+    "category": "Textiles",
+    "price": 567.75,
+    "stock": 47
+  },
+  {
+    "id": 81,
+    "name": "Silk Scarf 877",
+    "category": "Textiles",
+    "price": 311.99,
+    "stock": 23
+  },
+  {
+    "id": 82,
+    "name": "Cotton Shirt 571",
+    "category": "Textiles",
+    "price": 139.55,
+    "stock": 36
+  },
+  {
+    "id": 83,
+    "name": "Silk Scarf 606",
+    "category": "Textiles",
+    "price": 755.65,
+    "stock": 18
+  },
+  {
+    "id": 84,
+    "name": "Smartphone 495",
+    "category": "Electronics",
+    "price": 598.66,
+    "stock": 39
+  },
+  {
+    "id": 85,
+    "name": "Silk Scarf 867",
+    "category": "Textiles",
+    "price": 492.87,
+    "stock": 32
+  },
+  {
+    "id": 86,
+    "name": "Cotton Shirt 103",
+    "category": "Textiles",
+    "price": 938.0,
+    "stock": 7
+  },
+  {
+    "id": 87,
+    "name": "Fitness Tracker 199",
+    "category": "Gadgets",
+    "price": 464.69,
+    "stock": 22
+  },
+  {
+    "id": 88,
+    "name": "Learn Python 745",
+    "category": "Books",
+    "price": 332.39,
+    "stock": 23
+  },
+  {
+    "id": 89,
+    "name": "The AI Future 593",
+    "category": "Books",
+    "price": 791.35,
+    "stock": 41
+  },
+  {
+    "id": 90,
+    "name": "Smartphone 603",
+    "category": "Electronics",
+    "price": 66.04,
+    "stock": 1
+  },
+  {
+    "id": 91,
+    "name": "Digital Marketing Guide 483",
+    "category": "Books",
+    "price": 36.19,
+    "stock": 4
+  },
+  {
+    "id": 92,
+    "name": "Wool Sweater 975",
+    "category": "Textiles",
+    "price": 199.81,
+    "stock": 22
+  },
+  {
+    "id": 93,
+    "name": "The AI Future 412",
+    "category": "Books",
+    "price": 146.63,
+    "stock": 25
+  },
+  {
+    "id": 94,
+    "name": "Silk Scarf 916",
+    "category": "Textiles",
+    "price": 260.13,
+    "stock": 43
+  },
+  {
+    "id": 95,
+    "name": "Denim Jeans 636",
+    "category": "Textiles",
+    "price": 854.98,
+    "stock": 11
+  },
+  {
+    "id": 96,
+    "name": "Backpack 451",
+    "category": "Accessories",
+    "price": 205.63,
+    "stock": 45
+  },
+  {
+    "id": 97,
+    "name": "VR Headset 727",
+    "category": "Gadgets",
+    "price": 905.28,
+    "stock": 3
+  },
+  {
+    "id": 98,
+    "name": "Denim Jeans 308",
+    "category": "Textiles",
+    "price": 303.88,
+    "stock": 2
+  },
+  {
+    "id": 99,
+    "name": "Drone 792",
+    "category": "Gadgets",
+    "price": 864.14,
+    "stock": 17
+  },
+  {
+    "id": 100,
+    "name": "Learn Python 346",
+    "category": "Books",
+    "price": 308.93,
+    "stock": 2
+  }
+]
